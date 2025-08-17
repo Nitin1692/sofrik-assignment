@@ -22,7 +22,7 @@ The backend is built with Node.js, Express, MongoDB, Mongoose, and JWT authentic
 ```bash
 git clone https://github.com/your-username/project-management-app.git
 cd project-management-app
-``
+```
 
 2. Backend Setup
 ```bash
