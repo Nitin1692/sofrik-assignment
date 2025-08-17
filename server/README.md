@@ -20,8 +20,8 @@ The backend is built with Node.js, Express, MongoDB, Mongoose, and JWT authentic
 ## 🛠️ Setup Instructions
 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/project-management-app.git
-cd project-management-app
+git clone https://github.com/Nitin1692/sofrik-assignment.gits
+cd sofrik-assignment
 ```
 
 2. Backend Setup

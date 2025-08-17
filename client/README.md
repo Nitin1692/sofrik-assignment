@@ -20,8 +20,8 @@ It connects to the Node.js + Express backend to manage users, projects, and task
 
 If not already cloned:
 ```bash
-git clone https://github.com/your-username/project-management-app.git
-cd project-management-app/client
+git clone https://github.com/Nitin1692/sofrik-assignment.git
+cd sofrik-assignment/client
 ```
 
 2. Install Dependencies
